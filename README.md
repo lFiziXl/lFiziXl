@@ -1,4 +1,4 @@
-# Hi there, I'm lFiziXl 👋
+# Hi there, I'm Sergei | lFiziXl 👋
 
 **AI-Augmented Systems Developer & Linux Enthusiast**  
 *Building performant, lightweight software by pairing engineering discipline with agentic workflows.*
